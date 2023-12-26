@@ -39,6 +39,12 @@ This Python script allows you to extract the transcript of a YouTube video, gene
 - `main.py` - Main script to run the YouTube video summarizer.
 - `requirements.txt` - List of required Python modules.
 
+### Video Explanation
+
+[Watch the Video Explanation](https://www.youtube.com/watch?v=j5OdWBJeKLU)
+
+This video provides a detailed explanation of how to use and understand the YouTube Video Summarizer project.
+
 ### Cool Stickers
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/release/python-380/)
